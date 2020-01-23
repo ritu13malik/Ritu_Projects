@@ -1,2 +1,2 @@
-# Ritu_Project-s-
+# Ritu_Projects
 It's all about my work experience and interests .
