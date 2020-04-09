@@ -1,2 +1,4 @@
 # Ritu_Projects
-It's all about my work experience and interests .
+Here two projects are added:
+1.Image_processing 
+2.Weblog_filter
